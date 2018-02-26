@@ -8,6 +8,7 @@ public class Example1 {
 		
 		
 		System.out.println("This is First push to git");
+		System.out.println("This is my second push");
 	}
 
 }
